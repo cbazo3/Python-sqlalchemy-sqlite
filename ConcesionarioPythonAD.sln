@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ConcesionarioPythonAD", "ConcesionarioPythonAD\ConcesionarioPythonAD.pyproj", "{0E49997E-138B-46E4-8C18-CC5E0F02A8DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E49997E-138B-46E4-8C18-CC5E0F02A8DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E49997E-138B-46E4-8C18-CC5E0F02A8DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A4337BB-61C0-4328-8E23-F454BD895D54}
+	EndGlobalSection
+EndGlobal
